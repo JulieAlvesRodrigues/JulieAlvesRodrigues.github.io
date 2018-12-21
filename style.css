@@ -1,0 +1,35 @@
+.photo {
+	height: 200px;
+	object-fit: cover; 
+}
+
+@font-face {
+    font-family: 'NexaRustScriptL-0-Free';
+    src: url('NexaRustScriptL-0-Free-webfont.woff2') format('woff2'),
+         url('NexaRustScriptL-0-Free-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h5{
+	font-family: 'Times new roman';
+	text-align: center;
+	font-size: 30px;
+}
+
+p{
+	font-family: 'NexaRustScriptL-0-Free';
+	font-size: 25px;
+}
+
+.btn-info{
+	font-size: 20px;
+}
+
+.modal-body{
+	text-align: center;
+}
+
+.modal-title {
+	font-size: 20px;
+}
