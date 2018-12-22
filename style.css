@@ -42,12 +42,20 @@ p{
 .click{
 	background-color: rgb(255,238,221);
 }
-.slide{
-	height: 600px;
-	object-fit: cover;
-	justify-content: center;
+.carousel-inner{
+	height: 800px;
+	width: 1200px;
 }
-
+.slide{
+	height: 800px;
+	width: 1200px;
+	margin: 0 auto;
+	text-align: center;
+}
+.photo1{
+	height: 800px;
+	width: 1200px;
+}
 
 
 
