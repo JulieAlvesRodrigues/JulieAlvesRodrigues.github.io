@@ -14,7 +14,7 @@
 h5{
 	font-family: 'Times new roman';
 	text-align: center;
-	font-size: 30px;
+	font-size: 40px;
 }
 
 p{
@@ -33,3 +33,18 @@ p{
 .modal-title {
 	font-size: 20px;
 }
+
+.subscribe{
+	text-align: center;
+	background-color: rgb(136,187,187);
+
+}
+.click{
+	background-color: rgb(255,238,221);
+}
+
+
+
+
+
+
