@@ -42,7 +42,11 @@ p{
 .click{
 	background-color: rgb(255,238,221);
 }
-
+.slide{
+	height: 600px;
+	object-fit: cover;
+	justify-content: center;
+}
 
 
 
