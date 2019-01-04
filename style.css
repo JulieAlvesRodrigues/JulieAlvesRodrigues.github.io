@@ -11,6 +11,12 @@
     font-style: normal;
 }
 
+.subscribetitle {
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 50px;
+	padding: 10px;
+}
+
 h5{
 	font-family: 'Times new roman';
 	text-align: center;
@@ -36,11 +42,14 @@ p{
 
 .subscribe{
 	text-align: center;
-	background-color: rgb(255,205,103);
+	background-color: #ef8e38;
 
 }
+
+
+
 .click{
-	background-color: rgb(255,238,221);
+	background-color: #ef8e38;
 }
 .carousel-inner{
 	height: 800px;
@@ -62,7 +71,7 @@ header {
 }
 
 nav {
-	background-color: rgb(253,231,202);
+	background-color: rgb(255,205,103);
 	font-family: 'Times new roman';
 	font-size: 25px; 
 	color: white;
